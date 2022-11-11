@@ -1,7 +1,7 @@
 <template>
   <header>
     <h1>
-      <img src="../assets/logo.png" alt="">
+      <img src="https://raw.githubusercontent.com/alura-cursos/alura-tracker/aula-1/src/assets/logo.png" alt="">
     </h1>
   </header>
 </template>
